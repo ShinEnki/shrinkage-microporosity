@@ -1,2 +1,2 @@
 # solidification-cracking
-Theoretical and Computational model for predicting solidification/hot cracking 
+Theoretical and computational model for predicting solidification/hot cracking 
