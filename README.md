@@ -1,2 +1,2 @@
 # shrinkage-microporosity
-A theoretical and computational model for predicting shrinnkage microporosity in metals.
+A theoretical and computational model for predicting shrinnkage microporosity in metal.
