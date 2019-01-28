@@ -1,2 +1,2 @@
-# solidification-cracking
-Theoretical and computational model for predicting solidification/hot cracking 
+# shrinkage-microporosity
+A theoretical and computational model for predicting shrinkage-microporosity in metal. 
