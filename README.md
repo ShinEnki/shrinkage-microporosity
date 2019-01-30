@@ -1,5 +1,5 @@
 # shrinkage-microporosity
-A simple theoretical and computational model (user subroutine) for shrinkage-microporosity in metal. 
+A simple theoretical and computational model (user subroutine) for shrinkage-microporosity in solidification of metals. 
 
 Introduction
 The model is organised in a way to utilise the Abaqus CREEP USER subroutine (or UMAT) as a platform which provides an implicit time integration scheme of creep and swelling behaviour. In this subroutine nonlinear equations will be solved at each time increment, and the variations of th effective creep strain increment
