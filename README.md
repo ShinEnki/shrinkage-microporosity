@@ -4,7 +4,6 @@ A simple theoretical and computational model (Abaqus CREEP USER subroutine) for 
 
 ## Terms and Symbols
 AM	        m       exponent for the plasticity term
-
 AN	        n	      exponent for the creep term
 
 
