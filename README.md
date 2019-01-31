@@ -5,6 +5,9 @@ A simple theoretical and computational model (Abaqus CREEP USER subroutine) for 
 ## Terms and Symbols
 AM	        m       exponent for the plasticity term
 AN	        n	      exponent for the creep term
+
+
+
 DECRA(1)	  ∆ε^cr	  effective creep strain increment
 DECRA(4)	  ((∂∆ε^cr)/∂(-σ_m ) )_(σ_e )	partial derivative of
 DECRA(5)	  ((∂∆ε^cr)/(∂σ_e ))_(-σ_m )	partial derivative of ∆ε^cr with respect to σ_e
