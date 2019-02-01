@@ -78,7 +78,7 @@ C Define variables
        SIGBP=SQRT((QTILD**2.0)/G2P+((-P)**2.0)/G3P)
        
 C Effective creep reference strain rate as a function of liquid fraction of matrix,
-C assumuing the same stress for both solid and liquid phases
+C if assumuing the same stress for both solid and liquid phases
        ED0=(FLM*ED0L)+((1.0-FLM)*ED0S)  !Effective creep reference strain rate
 C if assuming the same strain rate for both solid and liquid phases
 C      ED0=ED0S/((FLM*((ED0S/ED0L)**(1.0/AN))+(1.0-FLM))**AN)
