@@ -3,4 +3,4 @@ A simple theoretical and computational model for shrinkage-microporosity in soli
 
 A Trans-Varestraint test was later conducted to validate this model (Aucott, Huang et al. Metallurgical and Materials Transactions A, 49(5), 1674-1682, 2018).
 
-For the physics of the model please read the file 'Creep User Subroutine Model for Shrinkage Microporosity'
+For the physics of the model please read the PDF file 'Creep User Subroutine Model for Shrinkage Microporosity'
