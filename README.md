@@ -3,4 +3,4 @@ A simple theoretical and computational model for shrinkage-microporosity in soli
 
 For the physics of the model please read the PDF file 'Creep User Subroutine Model for Shrinkage Microporosity'.
 
-This model was part of the theoratical groundwork for the project detailed in (L. Aucott, D. Huang, et al., Sci Rep, vol. 7, p. 40255, 2017; and L. Aucott, D. Huang, et al., Metall Mater Trans, A, 49(5), 1674-1682, 2018).
+This model was part of the theoratical groundwork for the project detailed in (L. Aucott, D. Huang, et al., Sci Rep, vol. 7, p. 40255, 2017).
