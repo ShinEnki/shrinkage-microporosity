@@ -1,6 +1,5 @@
 C Simple Creep Model Complete Temperature Regimes
-C - Composite Theory 1&2 i.e same stress or same strain rate in liquid & solid regions
-C - Beam Dimension: 12.5 mm x 250 mm
+C - Composite Theory 1 & 2 i.e same stress or same strain rate in liquid & solid regions
 C - Solidification Temperature Range (Liquidus & Solidus): Thermal Cal. Equilibrium
 C - Pore Formation Senario (T1 & T2): 7 - Reasonable Guess
 
